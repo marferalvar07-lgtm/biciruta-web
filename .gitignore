@@ -1,0 +1,9 @@
+#carpeta de ajuste
+.vscode/
+
+#ficheros de registro
+*.log
+
+#ficheros
+.DS_Store
+Thumbs.db
